@@ -1,5 +1,5 @@
 # orthorythme
 A text-based rhythm compiler
 Author : GMDRI
-Init : UPMCjuin93
+Init : UPMCjuin1993
 
